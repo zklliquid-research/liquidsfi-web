@@ -70,7 +70,7 @@ function Header() {
 									</defs>
 								</svg>
 							</div>
-							<span>ZKLiquid</span>
+							<span>LiquidsFi</span>
 						</Link>
 					</div>
 
@@ -177,7 +177,7 @@ function Header() {
 
 					<div className="hidden lg:ml-auto lg:flex lg:items-center lg:space-x-10">
 						<a
-							href="https://docs.zkliquid.io/"
+							href="https://docs.liquids.fi/"
 							title=""
 							className="text-base font-medium text-gray-50 transition-all duration-200 rounded  font-pj hover:text-opacity-50 "
 							target="_blank"
@@ -186,7 +186,7 @@ function Header() {
 							Documentation
 						</a>
 						<a
-							href="https://explorer.zkliquid.io/"
+							href="https://explorer.liquids.fi/"
 							title=""
 							className="text-base font-medium text-gray-50 transition-all duration-200 rounded  font-pj hover:text-opacity-50 "
 							target="_blank"
@@ -221,7 +221,7 @@ function Header() {
                   </a> */}
 
 								<a
-									href="https://docs.zkliquid.io/"
+									href="https://docs.liquids.fi/"
 									title=""
 									className="flex items-center p-3 -m-3 text-base font-medium text-gray-50 transition-all duration-200 rounded-xl "
 									target="_blank"
@@ -230,7 +230,7 @@ function Header() {
 									Documentation
 								</a>
 								<a
-									href="https://explorer.zkliquid.io/"
+									href="https://explorer.liquids.fi/"
 									title=""
 									className="flex items-center p-3 -m-3 text-base font-medium text-gray-50 transition-all duration-200 rounded-xl "
 									target="_blank"
