@@ -185,15 +185,24 @@ function Header() {
 							{" "}
 							Documentation
 						</a>
+						<a
+							href="https://explorer.zkliquid.io/"
+							title=""
+							className="text-base font-medium text-gray-50 transition-all duration-200 rounded  font-pj hover:text-opacity-50 "
+							target="_blank"
+						>
+							{" "}
+							LIP Explorer
+						</a>
 
 						<a
-							href="https://app.liquids.fi/"
+							href="https://bridge.liquids.fi/"
 							title=""
 							className="inline-flex items-center justify-center px-6 py-2  text-base font-bold leading-7 text-black transition-all duration-200 bg-teal-500 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
 							role="button"
 							target="_blank"
 						>
-							Launch App
+							Launch Bridge
 						</a>
 					</div>
 				</div>
@@ -220,15 +229,24 @@ function Header() {
 									{" "}
 									Documentation
 								</a>
+								<a
+									href="https://explorer.zkliquid.io/"
+									title=""
+									className="flex items-center p-3 -m-3 text-base font-medium text-gray-50 transition-all duration-200 rounded-xl "
+									target="_blank"
+								>
+									{" "}
+									LIP Explorer
+								</a>
 
 								<a
-									href="https://app.liquids.fi/"
+									href="https://bridge.liquids.fi/"
 									title=""
 									className="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-teal-500 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
 									role="button"
 									target="_blank"
 								>
-									Launch App
+									Launch Bridge
 								</a>
 							</div>
 						</div>
